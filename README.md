@@ -16,3 +16,5 @@ We you want to enter into the container:
 ```
 docker exec -it myapp /bin/bash
 ```
+
+The folder "files" is where the uploaded files will be stored.
